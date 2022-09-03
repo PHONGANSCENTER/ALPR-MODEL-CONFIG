@@ -1,0 +1,8 @@
+{
+  "application": "TextDetector",
+  "name": "Am",
+  "url": "https://nomeroff.net.ua/models/ocr/am/torch/model_v3.1/anpr_ocr_am_2022_03_28_pytorch_lightning.ckpt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateOcrAm-2021-05-20-all-draft.zip",
+  "repo": "https://github.com/ria-com/nomeroff-net.git",
+  "description": "Модель для розпінавання номерних знаків армянських форматів"
+}
