@@ -1,0 +1,8 @@
+{
+  "application": "TextDetector",
+  "name": "Md",
+  "url": "https://nomeroff.net.ua/models/ocr/md/torch/model_v3.1/anpr_ocr_md_2022_07_01_pytorch_lightning.ckpt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateOcrMd-2022-07-01.zip",
+  "repo": "https://github.com/ria-com/nomeroff-net.git",
+  "description": "Модель для розпінавання номерних знаків Республіки Молдова"
+}
