@@ -1,0 +1,8 @@
+{
+  "application": "TextDetector",
+  "name": "Ru",
+  "url": "https://nomeroff.net.ua/models/ocr/ru/torch/model_v3.1/anpr_ocr_ru_2022_03_28_pytorch_lightning.ckpt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateOcrRu-2021-09-01.zip",
+  "repo": "https://github.com/ria-com/nomeroff-net.git",
+  "description": "Модель для розпінавання номерних знаків фашиська(російська) формату"
+}
