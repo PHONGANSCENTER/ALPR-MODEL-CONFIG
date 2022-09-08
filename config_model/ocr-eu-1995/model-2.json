@@ -1,0 +1,8 @@
+{
+  "application": "TextDetector",
+  "name": "EuUa1995",
+  "url": "https://nomeroff.net.ua/models/ocr/ua-1995/torch/model_v3.1/anpr_ocr_eu_ua_1995_2022_03_28_pytorch_lightning.ckpt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateOcrUa-1995-2021-08-25.zip",
+  "repo": "https://github.com/ria-com/nomeroff-net.git",
+  "description": "Модель для розпінавання укр номерів формату 1995 року"
+}
