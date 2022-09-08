@@ -1,0 +1,8 @@
+{
+  "application": "TextDetector",
+  "name": "Eu",
+  "url": "https://nomeroff.net.ua/models/ocr/eu/torch/model_v3.1/anpr_ocr_eu_2022_03_28_pytorch_lightning.ckpt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateOcrEu-2021-09-27.zip",
+  "repo": "https://github.com/ria-com/nomeroff-net.git",
+  "description": "Загальна модель для розпінавання номерних знаків европейських форматів"
+}
