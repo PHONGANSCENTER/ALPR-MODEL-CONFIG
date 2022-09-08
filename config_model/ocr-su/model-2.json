@@ -1,0 +1,8 @@
+{
+  "application": "TextDetector",
+  "name": "Su",
+  "url": "https://nomeroff.net.ua/models/ocr/su/torch/model_v3.1/anpr_ocr_su_2022_03_28_pytorch_lightning.ckpt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateOcrSu-2021-08-27.zip",
+  "repo": "https://github.com/ria-com/nomeroff-net.git",
+  "description": "Модель для розпінавання номерних знаків форматів СССР"
+}
