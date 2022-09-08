@@ -1,0 +1,8 @@
+{
+  "application": "Detector",
+  "name": "yolov5",
+  "url": "https://nomeroff.net.ua/models/object_detection/yolov5s-2022-07-25.pt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateDataset-2022-07-25.zip",
+  "repo": "https://github.com/ultralytics/yolov5.git",
+  "description": "Модель для знаходження bbox номерних знаків"
+}
