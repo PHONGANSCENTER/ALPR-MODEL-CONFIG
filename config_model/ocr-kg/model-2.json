@@ -1,0 +1,8 @@
+{
+  "application": "TextDetector",
+  "name": "Kg",
+  "url": "https://nomeroff.net.ua/models/ocr/kg/torch/model_v3.1/anpr_ocr_kg_2022_03_28_pytorch_lightning.ckpt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateOcrKg-2020-12-31.zip",
+  "repo": "https://github.com/ria-com/nomeroff-net.git",
+  "description": "Модель для розпінавання номерних знаків киргизьких форматів"
+}
