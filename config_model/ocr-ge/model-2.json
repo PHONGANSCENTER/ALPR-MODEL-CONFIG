@@ -1,0 +1,8 @@
+{
+  "application": "TextDetector",
+  "name": "Ge",
+  "url": "https://nomeroff.net.ua/models/ocr/ge/torch/model_v3.1/anpr_ocr_ge_2022_03_28_pytorch_lightning.ckpt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateOcrGe-2019-07-06.zip",
+  "repo": "https://github.com/ria-com/nomeroff-net.git",
+  "description": "Модель для розпінавання номерних знаків грузинських форматів"
+}
