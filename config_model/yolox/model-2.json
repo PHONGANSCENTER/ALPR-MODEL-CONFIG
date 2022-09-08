@@ -1,0 +1,8 @@
+{
+  "application": "Detector",
+  "name": "yoloxv5s",
+  "url": "https://nomeroff.net.ua/models/object_detection/yoloxv5s-2022-04-01.pth",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateDataset-2021-12-12.zip",
+  "repo": "https://github.com/Megvii-BaseDetection/YOLOX.git",
+  "description": "Модель для знаходження bbox номерних знаків"
+}
