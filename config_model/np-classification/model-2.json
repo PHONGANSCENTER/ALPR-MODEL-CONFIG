@@ -3,8 +3,8 @@
   "name": "numberplate_options",
   "url": "https://nomeroff.net.ua/models/options/torch/numberplate_options_2022_07_02_pytorch_lightning.ckpt",
   "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateOptionsDataset-2022-07-04.zip",
-  "repo": "https://github.com/ria-com/nomeroff-net.git",
-  "description": "Классіфікація зображень зони номерного знаку по форматам країн",
+  "repo": "https://github.com/ANSCenter/ANS-ALPR.git",
+  "description": "Phân loại hình ảnh khu vực biển số xe theo định dạng quốc gia",
   "class_region": [
       "military-ru",
       "eu-ua-2015",
