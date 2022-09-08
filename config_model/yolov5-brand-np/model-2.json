@@ -1,0 +1,9 @@
+{
+  "application": "Detector",
+  "name": "yolov5_brand_np",
+  "url": "https://nomeroff.net.ua/models/object_detection/yolov5x_np_brand-2022-08-01.pt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateDataset-2022-08-01.zip",
+  "repo": "https://github.com/ultralytics/yolov5.git",
+  "commit_id": "5743deb9dfaa093eb455264a0cc590185d8ddf4e",
+  "description": "Модель для знаходження bbox номерних знаків",
+  "classes": ["numberplate", "empty_numberplate", "brand_numberplate", "filled_numberplate"]
