@@ -1,0 +1,8 @@
+{
+  "application": "TextDetector",
+  "name": "RuMilitary",
+  "url": "https://nomeroff.net.ua/models/ocr/ru-military/torch/model_v3.1/anpr_ocr_ru_military_2022_03_28_pytorch_lightning.ckpt",
+  "dataset": "https://nomeroff.net.ua/datasets/autoriaNumberplateOcrRu-Military-2022-03-24.zip",
+  "repo": "https://github.com/ria-com/nomeroff-net.git",
+  "description": "Модель для розпінавання номерних знаків військової техніки фашиського(російського) формату"
+}
