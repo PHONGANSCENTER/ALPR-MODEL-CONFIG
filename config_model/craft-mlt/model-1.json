@@ -1,0 +1,7 @@
+{
+  "application": "np_points_craft",
+  "name": "craft_mlt",
+  "url": "https://nomeroff.net.ua/models/scene_text_detection/craft_mlt_25k_2020-02-16.pth",
+  "repo": "https://github.com/clovaai/CRAFT-pytorch.git",
+  "description": "Модель для знаходження зон тексту на зображенні"
+}
